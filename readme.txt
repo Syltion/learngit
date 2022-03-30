@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks files.
 test working copy
 
+test 测试
